@@ -1,0 +1,5 @@
+usr/include/bitcoin/*.hpp
+usr/include/bitcoin/node/*.hpp
+usr/lib/lib*.a
+usr/lib/lib*.so
+usr/lib/pkgconfig/*.pc
