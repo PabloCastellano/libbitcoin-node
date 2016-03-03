@@ -1,0 +1,6 @@
+libbitcoin-node (2.4.0) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Initial release.
+
+ -- Pablo Castellano <pablo@anche.no>  Thu, 03 Mar 2016 16:14:35 +0100
