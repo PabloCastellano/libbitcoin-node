@@ -1,4 +1,4 @@
-libbitcoin-node (2.4.0) unstable; urgency=medium
+libbitcoin-node (2.4.0) xenial; urgency=medium
 
   * Non-maintainer upload.
   * Initial release.
